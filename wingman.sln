@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wingman", "wingman\wingman.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rsLauncher", "rsLauncher\rsLauncher.vcxproj", "{F8C88C4E-819D-4122-B8A8-61EF755227CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wingman-steam", "wingman-steam\wingman-steam.vcxproj", "{8FA9A53B-BAEC-41D1-90A5-2F1956802586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F8C88C4E-819D-4122-B8A8-61EF755227CC}.Release|x64.Build.0 = Release|x64
 		{F8C88C4E-819D-4122-B8A8-61EF755227CC}.Release|x86.ActiveCfg = Release|Win32
 		{F8C88C4E-819D-4122-B8A8-61EF755227CC}.Release|x86.Build.0 = Release|Win32
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Debug|x64.ActiveCfg = Debug|x64
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Debug|x64.Build.0 = Debug|x64
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Debug|x86.ActiveCfg = Debug|Win32
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Debug|x86.Build.0 = Debug|Win32
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Release|x64.ActiveCfg = Release|x64
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Release|x64.Build.0 = Release|x64
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Release|x86.ActiveCfg = Release|Win32
+		{8FA9A53B-BAEC-41D1-90A5-2F1956802586}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
