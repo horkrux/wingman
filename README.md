@@ -14,5 +14,8 @@ Here is the list of fixes/changes:
 
 ## How to Use
 
-Note: wingman is only compatible with the GOG version of the game.
+GOG version:
 Simply drop rsLauncher.exe and wingman.dll into the game's ROGUE folder. Use rsLauncher to launch the game.
+
+Steam version:
+Simply drop dinput.dll into the game's ROGUE folder and launch the game like normal.
